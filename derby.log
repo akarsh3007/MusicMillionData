@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 18 05:33:05 EST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0160-692f-1fae-0000023ed640 
+on database directory /home/akarsh/IdeaProjects/MillionMusicDataAnalysis/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1532c619 
+Loaded from file:/home/akarsh/.ivy2/cache/org.apache.derby/derby/jars/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-8u131-b11-2ubuntu1.16.04.2-b11
+user.dir=/home/akarsh/IdeaProjects/MillionMusicDataAnalysis
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-87-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
