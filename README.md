@@ -14,7 +14,7 @@ This project provides an example of loading a dataset from HDF5 and converting t
 6. Saving all ouptput files as paraquet file.
 
 # Conifg
-Config Contains an application.conf file where you can provide input directory, master, appname, yearoftrackforwhich you want the Top Songs. Update this file before building Jar
+Config Contains an application.conf file where you can provide input directory, master, appname, yearoftrackforwhich, you want the Top Songs. maxIter,regparam,elasticnetparam for Linear regression. Update this file before building Jar
 
 # Setup
 1. All the external jars and added in the project and compiled by SBT. external jars are added to lib folder for sbt to detect and build.
