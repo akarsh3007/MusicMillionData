@@ -5,8 +5,7 @@
 # Description
 This project provides an example of loading a dataset from HDF5 and converting to a case class and then to a Spark DataFrame for use with Spark SQL and Spark mlib. Use of Spark SQL to Perform Analysis. Use of Spark Mlib for Linear Regression on Predicting the Popularaity of Songs based on song features.
 # HDF5 Librarie
-Download libraries for HDF5 from https://wiki-bsse.ethz.ch/download/attachments/26609237/sis-jhdf5-14.12.6-r36356.zip?version=1&modificationDate=1462044819824&api=v2
-unzip sis-jhdf5-14.12.6-r36356.zip
+1.Download libraries for HDF5 from https://wiki-bsse.ethz.ch/download/attachments/26609237/sis-jhdf5-14.12.6-r36356.zip?version=1&modificationDate=1462044819824&api=v2
 
 # Engineering
 1. Reading HDF5 file format and convert them to scala objects and then to SparkRDD and Spark DataFrame
